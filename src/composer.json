@@ -1,0 +1,16 @@
+{
+    "name": "leaf/flash",
+    "description": "flash for laravel",
+    "authors": [
+        {
+            "name": "李昭",
+            "email": "leaf.li@showbrain.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Leaf\\LaraFlash\\": "src/"
+        }
+    }
+}
